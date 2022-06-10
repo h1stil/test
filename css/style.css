@@ -22,11 +22,3 @@ main {
 img {
   width: 50%;
 }
-
-.footer {
-  background-color: rgb(165, 163, 163);
-  padding: 10px;
-  position: absolute;
-  width: 95%;
-  text-align: right;
-}
